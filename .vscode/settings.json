@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "type_traits": "cpp",
+        "initializer_list": "cpp",
+        "cmath": "cpp",
+        "streambuf": "cpp",
+        "limits": "cpp",
+        "unordered_map": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "typeinfo": "cpp"
+    }
+}
